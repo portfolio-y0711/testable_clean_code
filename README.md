@@ -14,6 +14,8 @@ _부제: TBD + BDD + TDD + Function Compostion 로 테스트 가능한 클린 �
 
 [TDD 스터디에서 발표했던 PPT](https://docs.google.com/presentation/d/1GU6EGQIFmo824UVz_w54ktVb4jkhXNAHd7xVj_FQYZ4/edit#slide=id.g4964e676f0_0_4)
 
+[Trello 칸반보드 가기 >>>>>](https://trello.com/b/fxhhYC18/testable-clean-codes)
+
 목차 
 
 * 도구 및 설정 (Tools & Configuration)
