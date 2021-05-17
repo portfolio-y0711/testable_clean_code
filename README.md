@@ -6,7 +6,13 @@ _부제: TBD + BDD + TDD + Function Compostion 로 테스트 가능한 클린 �
 
 ![BDD_TDD](./bdd_tdd.jpg)
 
-[예전 TDD 스터디 시 작성한 발표자료](https://docs.google.com/presentation/d/1GU6EGQIFmo824UVz_w54ktVb4jkhXNAHd7xVj_FQYZ4/edit#slide=id.g4964e676f0_0_4))
+<br/>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_iG7ex1U9aw/0.jpg)](https://www.youtube.com/watch?v=_iG7ex1U9aw)
+
+<br/>
+
+[TDD 스터디에서 발표했던 PPT](https://docs.google.com/presentation/d/1GU6EGQIFmo824UVz_w54ktVb4jkhXNAHd7xVj_FQYZ4/edit#slide=id.g4964e676f0_0_4)
 
 목차 
 
