@@ -1,5 +1,5 @@
 import { Connection } from 'typeorm'
-import { Feed } from '@feed/database'
+import { Feed } from '@feed/data/database'
 import { GenerateMultipleRandomFeeds, generateMultipleRandomFeeds } from './generate-multiple-random-feeds'
 import { createRandomUser2 } from '../user/create-random-user'
 

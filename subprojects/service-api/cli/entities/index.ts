@@ -1,4 +1,4 @@
-export { Feed } from '@feed/database'
-export { User } from '@feed/database'
-export { UserDetail } from '@feed/database'
+export { Feed } from '@feed/data/database'
+export { User } from '@feed/data/database'
+export { UserDetail } from '@feed/data/database'
 

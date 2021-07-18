@@ -1,7 +1,7 @@
 import path from 'path'
-import { User } from '@feed/database'
-import { createUser } from '@feed/database/typeorm/entities/user/user-aggregate'
-import { parseJsonFromFile } from '@micro/utils'
+import { User } from '@feed/data/database'
+import { createUser } from '@feed/data/database/typeorm/entities/user/user-aggregate'
+import { parseJsonFromFile } from '@macroserviced/utils'
 
 export const createRandomUser
     = (uuid?: string, except?: boolean): User => {

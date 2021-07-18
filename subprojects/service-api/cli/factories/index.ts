@@ -7,7 +7,6 @@ export { generateMultipleRandomFeeds } from './feed/generate-multiple-random-fee
 export { seedRandomFeed } from './feed/seed-random-feeds'
 export { seedRandomFeeds } from './feed/seed-random-feeds'
 
-
 export { createRandomUser } from './user/create-random-user'
 export { createRandomUser2 } from './user/create-random-user'
 export { createUserWithId } from './user/create-user-with-id'

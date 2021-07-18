@@ -1,7 +1,7 @@
-import { Feed } from '@feed/database'
-import { randomDateBeforeDate } from '@feed/database/typeorm/entities/feed/feed-aggregate'
-import { parseJsonFromFile } from '@micro/utils'
-import { stringifyJsonToFile } from '@micro/utils'
+import { Feed } from '@feed/data/database'
+import { randomDateBeforeDate } from '@feed/data/database/typeorm/entities/feed/feed-aggregate'
+import { parseJsonFromFile } from '@macroserviced/utils'
+import { stringifyJsonToFile } from '@macroserviced/utils'
 
 
 

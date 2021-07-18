@@ -1,4 +1,4 @@
-import { Feed } from '@feed/database'
+import { Feed } from '@feed/data/database'
 
 export const filterProp
     = (feed: Feed): Feed => {

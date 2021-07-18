@@ -1,4 +1,4 @@
-import { User } from '@feed/database'
+import { User } from '@feed/data/database'
 import { createRandomUser } from './create-random-user'
 
 
